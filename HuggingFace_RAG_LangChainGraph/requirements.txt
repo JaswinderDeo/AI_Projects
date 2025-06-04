@@ -1,0 +1,12 @@
+streamlit
+langchain
+langgraph
+openai
+faiss-cpu
+pydantic
+tiktoken
+langchain_community
+python-dotenv
+langchain-openai
+langchain-community
+grandalf

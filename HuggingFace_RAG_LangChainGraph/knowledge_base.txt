@@ -1,0 +1,3 @@
+LangGraph memory works by managing the state passed between nodes in a directed graph. Instead of holding long conversation histories like traditional LLM agents, LangGraph uses state classes (e.g., Pydantic models) to track and update relevant information as the workflow proceeds.
+
+LangGraph also supports integration with memory backends like Redis or file-based checkpoints to persist state across long tasks or sessions. This enables replaying, debugging, and improving reliability for complex multi-step reasoning.
