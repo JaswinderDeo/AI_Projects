@@ -2,8 +2,6 @@
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
-![Streamlit App](images/trip_planner.jpg)
-
 ## Introduction
 
 Trip Planner leverages the CrewAI framework to automate and enhance the trip planning experience, integrating a CLI, FASTAPI, and a user-friendly Streamlit interface.
